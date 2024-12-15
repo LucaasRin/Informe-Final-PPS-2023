@@ -1,0 +1,194 @@
+[
+    {
+        "id": "alimento-01",
+        "titulo": "Ojo de bife",
+        "imagen": "./img/alimentos/01.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 4100
+    },
+    {
+        "id": "alimento-02",
+        "titulo": "Chuleta de cerdo 1kg",
+        "imagen": "./img/alimentos/02.png",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 3100
+    },
+    {
+        "id": "alimento-03",
+        "titulo": "Chorizos 1kg",
+        "imagen": "./img/alimentos/03.png",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "alimento-04",
+        "titulo": "Caja Patty",
+        "imagen": "./img/alimentos/04.jpg",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "alimento-05",
+        "titulo": "Pechugas de pollo",
+        "imagen": "./img/alimentos/05.png",
+        "categoria": {
+            "nombre": "Alimentos",
+            "id": "alimentos"
+        },
+        "precio": 2000
+    },
+
+
+
+
+
+
+    {
+        "id": "limpieza-01",
+        "titulo": "Lavandina Ayudin",
+        "imagen": "./img/limpieza/01.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "limpieza-02",
+        "titulo": "Ala matic 3kg",
+        "imagen": "./img/limpieza/02.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "limpieza-03",
+        "titulo": "Cepillo Colgate",
+        "imagen": "./img/limpieza/03.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "limpieza-04",
+        "titulo": "Perfume Gigante",
+        "imagen": "./img/limpieza/04.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "limpieza-05",
+        "titulo": "Jabon Plusbelle",
+        "imagen": "./img/limpieza/05.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "limpieza-06",
+        "titulo": "Magistral 750ml",
+        "imagen": "./img/limpieza/06.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "limpieza-07",
+        "titulo": "Pasta Colgate",
+        "imagen": "./img/limpieza/07.png",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "limpieza--08",
+        "titulo": "Trapo de piso",
+        "imagen": "./img/limpieza/08.jpg",
+        "categoria": {
+            "nombre": "Limpieza",
+            "id": "limpieza"
+        },
+        "precio": 1000
+    },
+
+        
+
+
+
+
+    {
+        "id": "bebidas-01",
+        "titulo": "Coca cola 2,5L",
+        "imagen": "./img/bebidas/01.png",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "bebidas-02",
+        "titulo": "Fanta 2,25L",
+        "imagen": "./img/bebidas/02.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "bebidas-03",
+        "titulo": "Fernet Branca 1L",
+        "imagen": "./img/bebidas/03.png",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 12400
+    },
+    {
+        "id": "bebidas-04",
+        "titulo": "Gancia 950ml",
+        "imagen": "./img/bebidas/04.png",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 4900
+    },
+    {
+        "id": "bebidas-05",
+        "titulo": "Sprite 2,5L",
+        "imagen": "./img/bebidas/05.png",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3200
+    }
+]
